@@ -1,0 +1,19 @@
+.nested-card {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    width: 100%;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: white;
+  }
+  
+  .nested-card h3 {
+    margin-top: 0;
+  }
+  
+  .nested-card p {
+    margin: 8px 0;
+  }
+  
